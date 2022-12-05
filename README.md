@@ -3,7 +3,7 @@
 Google Play, also branded as the Google Play Store and formerly Android Market, is a digital distribution service operated and developed by Google.
 
 
-
+video link-https://drive.google.com/drive/folders/1t_fDN9bv-Hp8VW66puCDZshX9pXhMFUs
 
 ## ABSTRACT
 Google Play Store is a digital distribution service operated by Google. Google Play Store mainly works for Android devices, from where Android users can download various apps as per their needs on their phones That is, it acts as an application store. Mainly here the apps are free to download on their phones. As various developers are publishing their apps on Google Play Store on one hand and users are using them on the other hand, From which a financial side of the developers is also getting prosperous. Google arranges app rating for users which basically allows users to tell how they feel about an app after using it but it is completely personal.
